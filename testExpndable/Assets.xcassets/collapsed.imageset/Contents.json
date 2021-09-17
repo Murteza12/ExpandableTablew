@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "collapsed.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
